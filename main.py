@@ -154,3 +154,6 @@ while playing:
     for bonus in benefits:
         if bonus[1].bottom > HEIGHT:
             benefits.pop(benefits.index(bonus))
+
+
+# new commit (test in 2 files both)
